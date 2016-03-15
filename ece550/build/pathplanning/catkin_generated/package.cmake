@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ecepathplanning")
+set(ecepathplanning_MAINTAINER "Matthew Romano <mmroman2@illinois.edu>")
+set(ecepathplanning_DEPRECATED "")
+set(ecepathplanning_VERSION "0.0.1")
+set(ecepathplanning_BUILD_DEPENDS "geometry_msgs" "turtlesim")
+set(ecepathplanning_RUN_DEPENDS "geometry_msgs" "turtlesim")
+set(ecepathplanning_BUILDTOOL_DEPENDS "catkin")
